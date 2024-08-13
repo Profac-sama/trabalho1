@@ -1,0 +1,64 @@
+table,th,tr,td{
+    border:3px solid purple;
+    border-collapse: collapse;
+    color:purple;
+    background-color: gray;
+
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+
+body{
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#div1{
+    text-align: center;
+    padding-top: 30px;
+}
+#wotakoi{
+    border:6px solid pink;
+}
+#div2{
+    text-align: left;
+    padding-top: 50px;
+}
+#bleach{
+    border:6px solid darkorange;
+}
+#div3{
+    text-align: right;
+    padding-top: 50px;
+}
+#hero{
+    border:6px solid darkgreen;
+}
